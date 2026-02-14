@@ -1,0 +1,24 @@
+phoenixdb_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.me-dubai-1.oraclecloud.com))(connect_data=(service_name=gb7a3c07dc51417_phoenixdb_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+phoenixdb_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.me-dubai-1.oraclecloud.com))(connect_data=(service_name=gb7a3c07dc51417_phoenixdb_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+phoenixdb_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.me-dubai-1.oraclecloud.com))(connect_data=(service_name=gb7a3c07dc51417_phoenixdb_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+phoenixdb_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.me-dubai-1.oraclecloud.com))(connect_data=(service_name=gb7a3c07dc51417_phoenixdb_tp.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+phoenixdb_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.me-dubai-1.oraclecloud.com))(connect_data=(service_name=gb7a3c07dc51417_phoenixdb_tpurgent.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
+bookme_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.me-dubai-1.oraclecloud.com))(connect_data=(service_name=gb7a3c07dc51417_bookme_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+bookme_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.me-dubai-1.oraclecloud.com))(connect_data=(service_name=gb7a3c07dc51417_bookme_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+bookme_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.me-dubai-1.oraclecloud.com))(connect_data=(service_name=gb7a3c07dc51417_bookme_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+bookme_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.me-dubai-1.oraclecloud.com))(connect_data=(service_name=gb7a3c07dc51417_bookme_tp.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+bookme_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.me-dubai-1.oraclecloud.com))(connect_data=(service_name=gb7a3c07dc51417_bookme_tpurgent.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
