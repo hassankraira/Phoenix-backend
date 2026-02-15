@@ -30,6 +30,19 @@ async function init() {
   
 }
 init();
+const axios = require('axios');
+
+async function getMyPublicIP() {
+  try {
+    const res = await axios.get('https://api.ipify.org');
+    console.log('🌐 My Public IP on Back4app is:', res.data);
+  } catch (err) {
+    console.log('❌ Could not fetch Public IP');
+  }
+}
+
+getMyPublicIP();
+
 app.get('/test-db', async (req, res) => {
   try {
     const connection = await oracledb.getConnection(dbConfig);
